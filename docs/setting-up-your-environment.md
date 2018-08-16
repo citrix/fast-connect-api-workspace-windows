@@ -3,7 +3,7 @@
 To use the Fast Connect API you must first configure your site
 appropriately, including setting up SSO:
 
- 1. If you are using StoreFront, enable the HTTP Basic authentication method as follows: 
+ 1. If you are using StoreFront, enable the HTTP Basic authentication method as follows:
 
 ![alt_text!](./setting-up-your-environment.png)
  2. Install Citrix Receiver for Windows 4.2 or later using the `/includesson` flag: `CitrixReceiver.exe/includesson`
@@ -17,7 +17,7 @@ GUI. ![](./gpedit-msc-gui.png)
 
 > Note
 
->-  For information on importing Group Policy Object administrative template for Citrix Workspace App for Windows Version 4.5 and later, see [Citrix Product Documentation](http://docs.citrix.com/en-us/rec eiver/windows/4-5/configure/ica-import-icaclient-template-v2.html).
+>-  For information on importing Group Policy Object administrative template for Citrix Workspace app for Windows Version 4.5 and later, see [Citrix Product Documentation](http://docs.citrix.com/en-us/rec eiver/windows/4-5/configure/ica-import-icaclient-template-v2.html).
 >-  For information on importing Group Policy administrative template for Citrix Workspace app for Windows Version 4.6, see [Citrix Product Documentation.](http://docs.citrix.com/en-us/receiver/windows/4-6/configure/ica-import-icaclient-template-v2.html)
 
 &#53;. Navigate to the administrative templates folder and then select **Citrix Components** > **Citrix Workspace** > **User authentication**.
