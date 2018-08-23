@@ -1,6 +1,6 @@
-# Fast Connect 3 Credential Insertion API for Citrix Workspace app for Windows 1808
+# Fast Connect 3 Credential Insertion API for Citrix Workspace app 1808 for Windows
 
-The Fast Connect 3 Credential Insertion API provides an interface that supplies user credentials to the single sign-on (SSO) feature of Citrix Workspace app for Windows 4.2 and later. Using this API, Citrix partners can provide authentication and SSO products that use StoreFront or the Web Interface to log users on to virtual applications or desktops and then disconnect users from those sessions.
+The Fast Connect 3 Credential Insertion API provides an interface that supplies user credentials to the single sign-on (SSO) feature of Citrix Workspace app 1808 for Windows. Using this API, Citrix partners can provide authentication and SSO products that use StoreFront or the Web Interface to log users on to virtual applications or desktops and then disconnect users from those sessions.
 
 The system requirements and prerequisites for the API are the same as those for Citrix Workspace app. Note that XenDesktop 7 does not support the Web Interface.
 
