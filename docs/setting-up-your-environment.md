@@ -71,7 +71,7 @@ You can set this through Group Policy:
 
 &#49;&#53; Start Citrix Workspace app from the Start menu.
 
-&#49;&#54;. When you are prompted for an account, specify the URL for your StoreFront Services Site, StoreFront XenApp Services Site, or Web Interface XenApp Services Site. 
+&#49;&#54;. When you are prompted for an account, specify the URL for your StoreFront Services Site, StoreFront XenApp Services Site, or Web Interface XenApp Services Site.
 
 A StoreFront URL looks like this: *https://SMBSZ-XENAPPS1.xa.local/Citrix/Store/discovery*
 
