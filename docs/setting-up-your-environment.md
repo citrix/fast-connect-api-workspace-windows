@@ -7,7 +7,7 @@ appropriately, including setting up SSO:
 
 ![alt_text!](./setting-up-your-environment.png)
  2. Install Citrix Receiver for Windows 4.2 or later using the `/includesson` flag: `CitrixReceiver.exe/includesson`
- 3. By default, user credentials are captured at Windows session logon. This may not always be desirable, especially in off-domain pass-through scenarios; to disable logon credential capture, use the `LOGON\_CREDENTIAL\_CAPTURE\_ENABLE` setting:
+ 3. By default, user credentials are captured at Windows session logon. This may not always be desirable, especially in off-domain pass-through scenarios; to disable logon credential capture, use the `LOGON_CREDENTIAL_CAPTURE_ENABLE` setting:
 
         CitrixWorkspaceApp.exe/includesson
 		LOGON_CREDENTIAL_CAPTURE_ENABLE=No
