@@ -10,7 +10,7 @@ appropriately, including setting up SSO:
  3. By default, user credentials are captured at Windows session logon. This may not always be desirable, especially in off-domain pass-through scenarios; to disable logon credential capture, use the `LOGON\_CREDENTIAL\_CAPTURE\_ENABLE` setting:
 
         CitrixWorkspaceApp.exe/includesson
-		LOGON\_CREDENTIAL\_CAPTURE\_ENABLE=No
+		LOGON_CREDENTIAL_CAPTURE_ENABLE=No
 
  4. Import the `receiver.adml` and `receiver.admx` files and then open `gpedit.msc`. This will make the Group Policy templates appear within the gpedit.msc
 GUI. ![](./gpedit-msc-gui.png)  
